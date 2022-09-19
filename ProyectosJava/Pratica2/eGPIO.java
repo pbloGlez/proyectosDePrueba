@@ -1,6 +1,5 @@
 package Pratica2;
 
-public enum eGPIO {
-    
+public enum eGPIO {  
     INPUT, OUTPUT;
 }
